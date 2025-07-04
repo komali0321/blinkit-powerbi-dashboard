@@ -2,11 +2,6 @@
 
 This repository contains a professionally designed Power BI dashboard project that analyzes operational and business data for **Blinkit**, a fast-growing quick commerce and grocery delivery platform. The dashboard was created as part of a business analytics initiative to convert raw transactional data into meaningful, decision-supporting insights.
 
----
-
-## 📌 Project Overview
-
-The **Blinkit Power BI Dashboard** provides a comprehensive view of sales, customer behavior, product performance, and order fulfillment metrics. Built with a focus on usability and interactivity, the dashboard empowers stakeholders to monitor key performance indicators (KPIs), identify business opportunities, and optimize service delivery.
 
 ---
 
@@ -71,3 +66,6 @@ This dashboard can be used by:
 **Product Teams**  
   To understand customer preferences and manage inventory based on demand.
 
+----
+⚠️ Note: The .pbix file can only be opened with the Power BI Desktop application.
+Please make sure you have it installed to view or edit the report.
