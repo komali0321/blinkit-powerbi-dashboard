@@ -13,7 +13,9 @@ This repository contains a professionally designed Power BI dashboard project th
 - To assist operational and strategic decision-making through interactive reporting
 
 ---
+⚠️ Note: The .pbix file can only be opened with the Power BI Desktop application. Please make sure you have it installed to view or edit the report.
 
+----
 ## 📊 Key Features
 
 ### 📈 Sales & Revenue Analysis
@@ -65,7 +67,3 @@ This dashboard can be used by:
   To track product-level sales and develop targeted marketing strategies.
 **Product Teams**  
   To understand customer preferences and manage inventory based on demand.
-
-----
-⚠️ Note: The .pbix file can only be opened with the Power BI Desktop application.
-Please make sure you have it installed to view or edit the report.
