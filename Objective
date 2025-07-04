@@ -1,0 +1,31 @@
+Objective
+
+The goal of this project is to leverage data visualization and business intelligence tools to:
+
+Identify key drivers of sales
+
+Understand customer behavior patterns
+
+Explore product-level performance
+
+Detect regional and time-based order trends
+
+Support operational decision-making through real-time insights
+
+----
+
+📦 Data Overview
+
+While the data used is simulated or anonymized (if applicable), it reflects real-world patterns typically found in quick commerce platforms like Blinkit. The dataset may include:
+
+Order Date & Time
+
+Product Category & SKU
+
+Customer Location (City/Region)
+
+Order Value & Quantity
+
+Payment Mode
+
+Delivery Time / Fulfillment Status
